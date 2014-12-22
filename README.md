@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The rape of Lucrece a true Roman tragedie. With the seuerall songes in their apt places, by Valerius
+
+1. To the Reader.
+
+1. Dramatis personae.
+
 #####Body#####
-The rape of Lucrece a true Roman tragedie. With the seuerall songes in their apt places, by Valerius
+
+1. THE Rape of Lucrece.
+
 **Types of content**
 
   * There are 2018 **verse** lines!
